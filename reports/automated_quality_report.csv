@@ -1,0 +1,5 @@
+check,issue count,status
+missing value,136491,REVIEW
+duplicate rows,0,PASS
+negative quantities,10587,REVIEW
+invalid prices,2512,REVIEW
